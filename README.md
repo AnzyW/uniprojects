@@ -10,5 +10,6 @@ https://github.com/AnzyW/uniprojects/blob/main/Business_Intelligence_Studienarbe
   This project explores the technological and algorithmic foundations of drone show systems, focusing on energy optimization, flight safety, and synchronization of complex aerial formations.
 Core technologies such as Visual Hull and Multi-View Structures are analyzed for their potential to improve sustainability and visual performance.
 The study also discusses modern hybrid approaches combining Visual Hull with machine learning (e.g., Neural Radiance Fields) to enable real-time, energy-efficient drone performances.
+https://github.com/AnzyW/uniprojects/blob/main/Flugrobotik%20Seminararbeit.pdf
 
 - 
