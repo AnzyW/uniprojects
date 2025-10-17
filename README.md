@@ -15,7 +15,7 @@ Documentation- and report-oriented university projects (little to no public code
 
 ---
 
-## 🛰️ Drone-Show Analysis (Visual Hull · Multi-View · NeRF)
+## 🛰️ Drone-Show Analysis (Visual Hull · Multi-View)
 <img src="https://github.com/user-attachments/assets/d7d67c33-56b1-469f-9fdd-fac77c6abc16" alt="Drone Show Analysis" width="800" />
 
 **Summary (EN)**
