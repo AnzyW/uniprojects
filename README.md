@@ -2,6 +2,7 @@
 This repository includes university projects that are related to programming but focus on documentation and reports instead of direct coding work
 
 - BI:
+<img width="1264" height="707" alt="image" src="https://github.com/user-attachments/assets/57e646ad-6bb0-4a8d-90e8-7a6a08e3c27c" />
   Business Intelligence analysis of Bundesliga data using SAP Datasphere and SAP Analytics Cloud. The project focuses on FC Augsburg and demonstrates how data-driven insights can support strategic and financial decision-making in professional football.
 https://github.com/AnzyW/uniprojects/blob/main/BI
 
